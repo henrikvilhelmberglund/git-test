@@ -8,6 +8,9 @@ Vår kod kallas för Repository (samlar kod i ett litet hus)
 
 branch: en version av vår kod
 
+U: untracked, finns ännu inte i Git
+M: modified (?)
+
 ## Kommandon
 
 - git add 

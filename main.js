@@ -1,2 +1,2 @@
 console.log("hej!");
-console.log("nice merge conflict");
+console.log("hej igen!");
